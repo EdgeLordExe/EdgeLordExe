@@ -1,0 +1,4 @@
+-  Hi, I’m @EdgeLordExe
+-  I’m interested in coding for ss13, developing new ways of automating tedious processes and minecraft 'utility' mods
+-  I’m currently learning AI and safer coding practices
+-  I’m looking to collaborate on pretty much anything that is of interest

@@ -8,5 +8,5 @@ I LOVE rust, i adore rust, it is my favourite language, i use it for basically e
 Fun facts:
 - documenting code at 3 am when english is your second language will most likely end in a massive disaster!
 - brain smoothe
-- Free speech advocate, anarchist and critic of all establishments
+- Leftist, anarchist and critic of all establishments
 - Did you know war on drugs was started because Nixon didn't want blacks and hippies to vote so he outlawed their drug of choice.

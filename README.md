@@ -1,5 +1,7 @@
 Hi! My name is Djiq! I'm a Software Developer, that is fascinated by ML and Compiler development.
 
+Headcoder for AetherStation13
+
 Tho i didn't do (any) ML stuff (brain too small for now), i did some amount of game development and compiler development. 
 While to be frank some concepts do overwhelm me, I'm a very quick learner. 
 
